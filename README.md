@@ -1,4 +1,4 @@
-# Ex-4 Rail-Fence-Program
+# Ex-5 Rail-Fence-Program
 ~~~
 ## Name : Ritesh DP
 ## Reg. No. : 212225040339
